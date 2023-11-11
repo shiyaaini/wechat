@@ -2,16 +2,22 @@
 
 基于wcfhttp开发
 
-    安装微信 3.9.2.23
-    收集于网络，不保证官方原版，请谨慎使用。
+1.  安装微信 3.9.2.23
+2.  python建议安装在3.10以下的版本，高版本有可能不兼容
+3.  记得先登录微信，再启动程序
 
-    文件太大，超上限了。转百度云盘。
+```
 
-    链接：https://pan.baidu.com/s/1gt5Rpfxiw9vnJnF-OzQxHQ
-    提取码：4b5u
+收集于网络，不保证官方原版，请谨慎使用。
 
-    链接：https://pan.baidu.com/s/1NVPDyYZsp1yL0J6X6l4-Mw?pwd=1314 
-    提取码：1314
+文件太大，超上限了。转百度云盘。
+
+链接：https://pan.baidu.com/s/1gt5Rpfxiw9vnJnF-OzQxHQ
+提取码：4b5u
+
+链接：https://pan.baidu.com/s/1NVPDyYZsp1yL0J6X6l4-Mw?pwd=1314 
+提取码：1314
+```
 
 
 
